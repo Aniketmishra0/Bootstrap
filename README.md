@@ -79,6 +79,16 @@ Start Bootstrap was created by and is maintained by **[David Miller](https://dav
 
 Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
+### FAQ
+
+Why was jQuery removed from Bootstrap?
+
+Mark Otto, the founder of Bootstrap has written:
+
+"We’re sharpening our focus on building tools that are more future-friendly, and while we’re not fully there yet, the promise of CSS variables, faster JavaScript, fewer dependencies, and better APIs certainly feel right to us.
+jQuery brought unprecedented access to complex JavaScript behaviors to millions (billions?) of people over the last decade and a half. Personally, I’m forever grateful for the empowerment and support it gave me to continue writing front-end code, learning new things, and embracing plugins from the community. Perhaps most importantly, it’s forever changed JavaScript itself, and that in itself is a monument to jQuery’s success. Thank you to every jQuery contributor and maintainer who made that possible for folks like me.
+Thanks to advancement made in front-end development tools and browser support, we’re now able to drop jQuery as a dependency, but you’d never notice otherwise."
+
 ## Copyright and License
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-modern-business/blob/master/LICENSE) license.
