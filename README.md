@@ -66,16 +66,26 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## About
 
+
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
 
 * <https://startbootstrap.com>
 * <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[Aniket Mishra](https://www.linkedin.com/in/aniketmishra0/)**.
+## Aniket Mishra
 
-* <https://twitter.com/aniketmishra0>
-* <https://github.com/aniketmishra0>
+Pronouns: He/Him
+
+## 🔗 Social Links
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/aniketmishra0)
+
+
+## 🖊 Feedback
+Your suggestions are very welcome, kindly post them [here](https://github.com/bootstrap) and contribute into the project.
+
+
 
 Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
